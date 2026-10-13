@@ -1,6 +1,6 @@
 # 🎨 100-css-designs - 100 Free Templates for Beautiful Websites
 
-[![Download 100 CSS Designs](https://img.shields.io/badge/Download-100%20Free%20Templates-blueviolet?style=for-the-badge&logo=github)](https://github.com/kadzo325/100-css-designs)
+[![Download 100 CSS Designs](https://img.shields.io/badge/Download-100%20Free%20Templates-blueviolet?style=for-the-badge&logo=github)](https://github.com/kadzo325/100-css-designs/releases)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ These are ready-made website designs that you can use immediately. Each template
 
 ## 📥 How to Download
 
-Visit this link to download the application: [https://github.com/kadzo325/100-css-designs](https://github.com/kadzo325/100-css-designs)
+Visit this link to download the application: [https://github.com/kadzo325/100-css-designs/releases](https://github.com/kadzo325/100-css-designs/releases)
 
 This link takes you to the main download page for the 100 CSS Designs collection. Follow these simple steps:
 
